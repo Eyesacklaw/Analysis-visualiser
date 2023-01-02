@@ -9,17 +9,17 @@ Imports common items on the financial statements for ratio analysis, then compar
 - 'help' to print list of commands.
 
 # List of Ratios
-'gpm' for gross profit margin.
-'sga' for sga to gross profit.
-'rd' for r&d to gross profit.
-'interest' for interest expense to operating income.
-'npm' for net profit margin.
-'eps' for earnings per share.
-'div' for dividend.
-'cr' for current ratio.
-'roa' for return on assets.
-'ltd' for long-term debt to net income (how many years of income can pay off debt).
-'dte' for debt to equity.
-'roe' for return on equity.
-'pe' for price to earnings.
-'pb' for price to book value.
+- 'gpm' for gross profit margin.
+- 'sga' for sga to gross profit.
+- 'rd' for r&d to gross profit.
+- 'interest' for interest expense to operating income.
+- 'npm' for net profit margin.
+- 'eps' for earnings per share.
+- 'div' for dividend.
+- 'cr' for current ratio.
+- 'roa' for return on assets.
+- 'ltd' for long-term debt to net income (how many years of income can pay off debt).
+- 'dte' for debt to equity.
+- 'roe' for return on equity.
+- 'pe' for price to earnings.
+- 'pb' for price to book value.
