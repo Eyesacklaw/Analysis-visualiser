@@ -2,11 +2,11 @@
 Imports common items on the financial statements for ratio analysis, then compares it with other companies and visualizes through line graphs. Used for quickly screening companies that you may find interesting.
 
 # List of Commands
-'exit' to quit the program.
-'save' to load in the data of a company.
-'plot' to plot a graph of a particular ratio of analysis against other companies.
-'screen' to view all of the graphs of ratios of analysis against other companies.
-'help' to print list of commands.
+- 'exit' to quit the program.
+- 'save' to load in the data of a company.
+- 'plot' to plot a graph of a particular ratio of analysis against other companies.
+- 'screen' to view all of the graphs of ratios of analysis against other companies.
+- 'help' to print list of commands.
 
 # List of Ratios
 'gpm' for gross profit margin.
